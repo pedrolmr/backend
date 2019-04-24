@@ -1,6 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "engines":{
+    "node": "10.6.0",
+    "yarn": "1.6.0"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
