@@ -34,6 +34,7 @@ module.exports = {
       user: "username",
       password: "password"
     },
+    useNullAsDefault: true,
     migrations: {
       directory: "./data/migrations"
     },
